@@ -1,0 +1,1 @@
+pergunta1git push -u origin main
