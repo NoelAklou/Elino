@@ -1,1 +1,1 @@
-pergunta1git push -u origin main
+1: Deu certo
